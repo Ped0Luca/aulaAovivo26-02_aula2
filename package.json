@@ -1,0 +1,24 @@
+{
+  "name": "aulaaovivo26-02_aula2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": " node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ped0Luca/aulaAovivo26-02_aula2.git"
+  },
+  "author": "pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ped0Luca/aulaAovivo26-02_aula2/issues"
+  },
+  "homepage": "https://github.com/Ped0Luca/aulaAovivo26-02_aula2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
